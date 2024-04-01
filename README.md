@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saad Alamgir</h1>
-<h3 align="center">A passionate Machine Learning/ Deep Learning Engineer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@saadalamgir18](https://medium.com/@saadalamgir18)
 
