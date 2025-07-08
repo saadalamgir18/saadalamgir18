@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@saadalamgir18](https://medium.com/@saadalamgir18)
 
-- 💬 Ask me about **NextJs, ReactJS, Full Stack WEB DEV**
+- 💬 Ask me about **Java, Spring Boot, Scaleable system**
 
 - 📫 How to reach me **saadalamgir18@gmail.com**
 
